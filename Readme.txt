@@ -1,33 +1,33 @@
-Simulação de Controle PID em uma Fábrica de Cerveja por Batelada
+PID Control Simulation in a Batch Brewing Plant
 
-É com satisfação que apresento um programa Python desenvolvido no Jupyter Notebook, criado com o propósito de demonstrar o funcionamento de sistemas de controle PID (Proporcional, Integral e Derivativo). Este programa utiliza as bibliotecas SimPy e TCLab no ambiente de desenvolvimento Visual Studio. O foco da demonstração está na simulação da atuação de um sistema de controle PID em variações térmicas e no controle do pH em um cenário de Fabricação de Cerveja por Batelada.
+I am pleased to present a Python program developed in Jupyter Notebook, created with the purpose of demonstrating the operation of PID (Proportional, Integral and Derivative) control systems. This program uses the SimPy and TCLab libraries in the Visual Studio development environment. The focus of the demonstration is on simulating the performance of a PID control system in thermal variations and pH control in a Batch Brewing scenario.
 
-Contexto:
+Context:
 
-A produção de cerveja por batelada é um processo complexo que exige rigoroso controle de temperatura e pH em várias etapas. O controle PID é amplamente utilizado para garantir que essas variáveis permaneçam dentro das faixas desejadas, afetando diretamente a qualidade e o sabor da cerveja.
+Batch beer production is a complex process that requires strict temperature and pH control in several stages. PID control is widely used to ensure that these variables remain within desired ranges, directly affecting the quality and flavor of the beer.
 
-Ferramentas Utilizadas:
+Tools Used:
 
-Python: A linguagem de programação escolhida para a criação do programa.
-Jupyter Notebook: Um ambiente interativo que permite a exploração e documentação do código de forma eficiente.
-SimPy: Uma biblioteca que possibilita a modelagem e simulação de sistemas complexos, essencial para a representação do processo de fabricação de cerveja.
-TCLab: Uma biblioteca que permite a interação com o laboratório térmico virtual, possibilitando o controle de variáveis de processo em tempo real.
-Resultados Esperados:
+Python: The programming language chosen to create the program.
+Jupyter Notebook: An interactive environment that allows you to efficiently explore and document code.
+SimPy: A library that enables the modeling and simulation of complex systems, essential for representing the brewing process.
+TCLab: A library that allows interaction with the virtual thermal laboratory, enabling the control of process variables in real time.
+Expected results:
 
-O programa simula o controle PID aplicado à regulação de temperatura e pH ao longo das etapas do processo de fabricação de cerveja por batelada. Ele demonstra como o controlador PID ajusta continuamente as variáveis de processo para manter as condições ideais, garantindo a qualidade da cerveja.
+The program simulates PID control applied to temperature and pH regulation throughout the stages of the batch brewing process. It demonstrates how the PID controller continuously adjusts process variables to maintain ideal conditions, ensuring beer quality.
 
-Benefícios da Demonstração:
+Demo Benefits:
 
-Compreender a importância do controle PID na indústria de fabricação de cerveja por batelada.
-Visualizar como o controle PID contribui para a consistência e qualidade do produto final.
-Aprender a utilizar bibliotecas Python, como SimPy e TCLab, para simular e experimentar o controle de processos complexos.
-Conclusão:
+Understand the importance of PID control in the batch brewing industry.
+Visualize how PID control contributes to the consistency and quality of the final product.
+Learn to use Python libraries, such as SimPy and TCLab, to simulate and experiment with the control of complex processes.
+Conclusion:
 
-Esta demonstração oferece uma visão prática e esclarecedora do controle PID em um cenário real, no qual o sucesso da produção de cerveja por batelada depende diretamente do controle preciso das variáveis de processo. O uso do ambiente Jupyter Notebook e das bibliotecas SimPy e TCLab no Visual Studio facilita a compreensão e a experimentação, proporcionando uma valiosa oportunidade de aprendizado na área de engenharia de controle e automação.
+This demonstration offers a practical and enlightening view of PID control in a real-world scenario, in which the success of batch beer production directly depends on the precise control of process variables. Using the Jupyter Notebook environment and the SimPy and TCLab libraries in Visual Studio makes understanding and experimentation easier, providing a valuable learning opportunity in the area of control and automation engineering.
 
-Estou à disposição para fornecer mais informações ou esclarecer quaisquer dúvidas relacionadas a esta demonstração.
+I am available to provide more information or answer any questions related to this demonstration.
 
-Atenciosamente,
+Yours sincerely,
 
 Raphael
 https://www.linkedin.com/in/raphaelgarciamoreira/
